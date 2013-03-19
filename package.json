@@ -1,0 +1,22 @@
+{
+  "name": "bulletproofology",
+  "author": "Jared Hirsch <ohai@6a68.net>",
+  "version": "0.0.1",
+  "homepage": "https://github.com/6a68/bulletproofology",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/6a68/bulletproofology.git"
+  },
+  "bugs": {
+    "url": "https://github.com/6a68/bulletproofology/issues"
+  },
+  "description": "simple app to test the many 'bulletproof' @font-face syntaxes in action",
+  "dependencies": {
+    "connect": "1.9.0",
+    "ejs": "0.8.3",
+    "express": "2.5.11"
+  },
+  "scripts": {
+    "start": "node ./app.js"
+  }
+}
