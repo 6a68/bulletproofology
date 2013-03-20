@@ -12,6 +12,7 @@
   },
   "description": "simple app to test the many 'bulletproof' @font-face syntaxes in action",
   "dependencies": {
+    "awsbox": "0.4.1",
     "connect": "1.9.0",
     "connect-fonts": "0.0.9-alpha8",
     "connect-fonts-opensans": "0.0.3-alpha3",
