@@ -1,5 +1,7 @@
 ## *bulletproofology, n. The study of bulletproof @font-face syntaxes*
 
+try it out online at [bulletproofology.org](http://bulletproofology.org)
+
 ### bulletproof? let's prove it.
 
 Wouldn't it be nice to actually **see** how different recommended @font-face syntaxes work?
