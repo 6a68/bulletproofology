@@ -1,6 +1,6 @@
 ## *bulletproofology, n. The study of bulletproof @font-face syntaxes*
 
-try it out online at [bulletproofology.org](http://bulletproofology.org)
+try it out online at [http://bulletproofology.org](http://bulletproofology.org)
 
 ### bulletproof? let's prove it.
 
